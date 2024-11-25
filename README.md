@@ -2,8 +2,6 @@
 
 <div id="badges" align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mo2men-dev&theme=transparent&hide_border=true&border_radius=10.3&card_width=400&card_height=200)](https://git.io/streak-stats)
-
   <img src="https://komarev.com/ghpvc/?username=Mo2men-dev&style=flat-square&color=blue" alt=""/>
 </div>
 
